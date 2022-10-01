@@ -1,0 +1,15 @@
+C:\Users\Елена\Desktop\УЧЕБА\C Sharp\Lection_1\Example_sum with user\bin\Debug\net6.0\Example_sum with user.exe
+C:\Users\Елена\Desktop\УЧЕБА\C Sharp\Lection_1\Example_sum with user\bin\Debug\net6.0\Example_sum with user.deps.json
+C:\Users\Елена\Desktop\УЧЕБА\C Sharp\Lection_1\Example_sum with user\bin\Debug\net6.0\Example_sum with user.runtimeconfig.json
+C:\Users\Елена\Desktop\УЧЕБА\C Sharp\Lection_1\Example_sum with user\bin\Debug\net6.0\Example_sum with user.dll
+C:\Users\Елена\Desktop\УЧЕБА\C Sharp\Lection_1\Example_sum with user\bin\Debug\net6.0\Example_sum with user.pdb
+C:\Users\Елена\Desktop\УЧЕБА\C Sharp\Lection_1\Example_sum with user\obj\Debug\net6.0\Example_sum with user.csproj.AssemblyReference.cache
+C:\Users\Елена\Desktop\УЧЕБА\C Sharp\Lection_1\Example_sum with user\obj\Debug\net6.0\Example_sum with user.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елена\Desktop\УЧЕБА\C Sharp\Lection_1\Example_sum with user\obj\Debug\net6.0\Example_sum with user.AssemblyInfoInputs.cache
+C:\Users\Елена\Desktop\УЧЕБА\C Sharp\Lection_1\Example_sum with user\obj\Debug\net6.0\Example_sum with user.AssemblyInfo.cs
+C:\Users\Елена\Desktop\УЧЕБА\C Sharp\Lection_1\Example_sum with user\obj\Debug\net6.0\Example_sum with user.csproj.CoreCompileInputs.cache
+C:\Users\Елена\Desktop\УЧЕБА\C Sharp\Lection_1\Example_sum with user\obj\Debug\net6.0\Example_sum with user.dll
+C:\Users\Елена\Desktop\УЧЕБА\C Sharp\Lection_1\Example_sum with user\obj\Debug\net6.0\refint\Example_sum with user.dll
+C:\Users\Елена\Desktop\УЧЕБА\C Sharp\Lection_1\Example_sum with user\obj\Debug\net6.0\Example_sum with user.pdb
+C:\Users\Елена\Desktop\УЧЕБА\C Sharp\Lection_1\Example_sum with user\obj\Debug\net6.0\Example_sum with user.genruntimeconfig.cache
+C:\Users\Елена\Desktop\УЧЕБА\C Sharp\Lection_1\Example_sum with user\obj\Debug\net6.0\ref\Example_sum with user.dll
